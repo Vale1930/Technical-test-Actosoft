@@ -1,0 +1,37 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css";
+
+.description-container{
+    margin-top: 10px;
+}
+.ingredients-container{
+    margin-top: 15px;
+}
+
+.btn.btn-primary.btn-create {
+    margin-top: 15px;
+}
+.dishes-container{
+    background-color:rgb(170, 90, 245);
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+
+}
+
+.crud-form .card{
+    border-radius: 8px;
+    background-color: rgb(170, 90, 245);
+}
+
+body{
+    background: url('images/img_background.jpeg');
+    background-size: cover;
+}
+
+p{
+    background-color:rgb(198, 124, 247);
+    font-weight: 400;
+}
+
+
+
